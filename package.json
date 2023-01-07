@@ -1,0 +1,24 @@
+{
+  "name": "2022-vue-week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Key0329/2022-Vue-week3.git"
+  },
+  "author": "Key",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Key0329/2022-Vue-week3/issues"
+  },
+  "homepage": "https://github.com/Key0329/2022-Vue-week3#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1",
+    "vue-eslint-parser": "^8.0.0"
+  }
+}
